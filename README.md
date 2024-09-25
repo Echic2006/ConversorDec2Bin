@@ -10,7 +10,7 @@
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 :shipit:
-[!CAUTION]
+>[!CAUTION]
 > Useful information that users should know, even when skimming content.
 
 ---
